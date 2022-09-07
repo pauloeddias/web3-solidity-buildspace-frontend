@@ -4,7 +4,7 @@ import "./App.css";
 import abi from "./utils/WavePortal.json";
 import { ethers } from "ethers";
 
-const contractAddress = "0xf70Bff876de38fE35671F6De6048620C52366B84";
+const contractAddress = "0xD3A9502d21dBdf0e73b1DD6C963A2a5ef7660EE0";
 const contractABI = abi.abi;
 
 
